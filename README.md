@@ -420,7 +420,8 @@ docker inspect --format='{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}
 
 Be sure to check out the following Docker documentation resources for more information on debugging:
 
-[Docker inspect reference](https://docs.docker.com/engine/reference/commandline/inspect/#examples)
+[Docker inspect reference](https://docs.docker.com/engine/reference/commandline/inspect/#examples)  
+
 [Docker exec reference](https://docs.docker.com/engine/reference/commandline/exec/)
 
 
