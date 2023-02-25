@@ -1,4 +1,4 @@
-# GCP-Docker-lab
+# Goole Cloud Platform Docker lab step
 Introduction to Docker
 
 # Overview
