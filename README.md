@@ -1,4 +1,5 @@
-# Goole Cloud Platform Docker lab step (Introduction to Docker)
+# Goole Cloud Platform Docker lab step
+Introduction to Docker
 Docker is an open platform for developing, shipping, and running applications. With Docker, you can separate your applications from your infrastructure and treat your infrastructure like a managed application. Docker helps you ship code faster, test faster, deploy faster, and shorten the cycle between writing code and running code.
 
 Docker does this by combining kernel containerization features with workflows and tooling that helps you manage and deploy your applications.
